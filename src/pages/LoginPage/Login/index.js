@@ -75,7 +75,7 @@ export const Login = () => {
         <section>
         <div className="container">
         <div className="main-heading register">
-            <h2 className="fancy-font">Sing in</h2>
+            <h2 className="fancy-font">Login in</h2>
         </div>
         <div className="contact-field">
             <div className="row formula">   
